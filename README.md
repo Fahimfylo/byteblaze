@@ -2,7 +2,7 @@
 
 Live site:
 
-- [ByteBlaze](https://byte-blaze.netlify.app/)
+https://mellifluous-hamster-3fdd35.netlify.app/
 
 Resources:
 
