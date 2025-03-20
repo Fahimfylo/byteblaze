@@ -1,6 +1,6 @@
 # Byteblaze
 
-Live demo https://mellifluous-hamster-3fdd35.netlify.app/
+Live demo https://dazzling-naiad-118016.netlify.app/
 
 Resources:
 
