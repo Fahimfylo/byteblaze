@@ -79,9 +79,9 @@ const Blog = () => {
             </Link>
             <div
               onClick={() => handleBookmark(blog)}
-              className='bg-primary p-3 ml-5 rounded-full hover:bg-opacity-30 bg-opacity-20 cursor-pointer hover:scale-105 overflow-hidden'
+              className='bg-green-500 p-3 ml-5 rounded-full hover:bg-opacity-70 cursor-pointer hover:scale-105 overflow-hidden'
             >
-              <MdBookmarkAdd size={20} className='text-secondary' />
+              <MdBookmarkAdd size={20} className='text-white' />
             </div>
           </div>
         </div>
